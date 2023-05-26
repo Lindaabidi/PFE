@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233662457238",
+    "project_id": "appkpi-2654c",
+    "storage_bucket": "appkpi-2654c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233662457238:android:a016dededda99fb3fe29b7",
+        "android_client_info": {
+          "package_name": "com.example.appkpi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqFhlnyRHeyzaUBCFOUvwaUdD6_XdedFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
